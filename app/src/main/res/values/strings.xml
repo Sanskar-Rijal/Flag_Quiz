@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flag Quiz</string>
+    <string name="welcome">Welcome</string>
+    <string name="entername">Enter your name!!!</string>
+    <string name="la_game_khelne_vay_nam_hal">name: e.g daju</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="start">START</string>
+    <string name="next_question">GO TO NEXT QUESTION</string>
+    <string name="check_answer">CHECK ANSWER</string>
+    <string name="finish">FINISH</string>
+</resources>

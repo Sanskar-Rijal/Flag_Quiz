@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="basic">#bee3db</color>
+    <color name="welcome">#293241</color>
+    <color name="enteryourname">#adb5bd</color>
+    <color name="optioncolor">#507dbc</color>
+    <color name="red">#ef233c</color>
+</resources>
